@@ -1,0 +1,25 @@
+ARANHA ALBINA
+(Theridiidae / Phoneutria)
+
+Sequências - Familia		Sequências - Gênero
+[AACGTCT]: 51 vezes			[TTAACGC]: 47 vezes
+[TCGACGG]: 50 vezes			[GGATACC]: 61 vezes
+[CCTTGAA]: 51 vezes			[CGCGTTA]: 50 vezes
+
+
+ARANHA CIGARRA
+(Theridiidae /  Avicularia)
+
+Sequências - Familia		Sequências - Gênero
+[AACGTCT]: 61 vezes			[TTAACGC]: 48 vezes
+[TCGACGG]: 51 vezes			[GGATACC]: 61 vezes
+[CCTTGAA]: 53 vezes			[CGCGTTA]: 60 vezes
+
+
+ARANHA ESCORPIÃO
+(Theraphosidae  /  Latrodectus)
+
+Sequências - Familia		Sequências - Gênero
+[AACGTCT]: 49 vezes			[TTAACGC]: 65 vezes
+[TCGACGG]: 57 vezes			[GGATACC]: 51 vezes
+[CCTTGAA]: 66 vezes			[CGCGTTA]: 42 vezes
